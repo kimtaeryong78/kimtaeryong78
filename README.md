@@ -11,7 +11,7 @@
 
 </div>
 
-<h2 align="center">:wrench: Tech Stack :hammer:</h2>
+<h2 align="center">:wrench: Technology Stack :hammer:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
