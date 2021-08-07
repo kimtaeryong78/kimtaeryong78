@@ -32,6 +32,11 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimtaeryong78&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+<h2 align="center">Gmail Link:mailbox_with_no_mail:</h2>
+<div align="center">
+<a href="mailto:kimtaeryong78@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=kimtaeryong78@gmail.com"/></a></a>
+
+</div>
 <!--
 **kimtaeryong78/kimtaeryong78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
